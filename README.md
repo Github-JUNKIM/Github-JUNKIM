@@ -2,15 +2,19 @@
 
   
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3></br>
-<p align="center">
+<p align="center">	
 <img src="https://img.shields.io/badge/Java-CC3D3D?style=flat-badge&logo=java&logoColor=withe"/> &nbsp 
 <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&flat&logo=Spring&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring%20boot&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/-Spring%20MVC-6DB33F"/> &nbsp
 <img src="https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?"/> &nbsp
- <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=JavaScript&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=JavaScript&logoColor=white"/>
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=kimjunbo&show_icons=true&hide_border=true)](https://github.com/kimjunbo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjunbo&layout=compact)](https://github.com/kimjunbo)
+<h3 align="center"><b>🌌 Statistics 🌌</b></h3></br>
+<p align="center">	
+<img src="https://github-readme-stats.vercel.app/api?username=kimjunbo&show_icons=true&hide_border=true"/> &nbsp
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjunbo&layout=compact"/>
+<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=kimjunbo&show_icons=true&hide_border=true)](https://github.com/kimjunbo) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjunbo&layout=compact)](https://github.com/kimjunbo) -->
