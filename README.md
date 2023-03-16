@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjunbo)](https://hits.seeyoufarm.com)
 <!--
 **Github-JUNKIM/Github-JUNKIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
