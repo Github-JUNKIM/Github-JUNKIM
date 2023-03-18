@@ -13,9 +13,6 @@
 
 
 <h3 align="center"><b>🌌 Statistics 🌌</b></h3></br>
-<p align="center">	
-<img src="https://github-readme-stats.vercel.app/api?username=kimjunbo&show_icons=true&hide_border=true"/>
-<p align="center">	
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjunbo&layout=compact"/>
-<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=kimjunbo&show_icons=true&hide_border=true)](https://github.com/kimjunbo) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjunbo&layout=compact)](https://github.com/kimjunbo) -->
+<div style="display: flex, height:180px">
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kimjunbo&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjunbo&layout=compact&theme=nord&hide_border=true" />
