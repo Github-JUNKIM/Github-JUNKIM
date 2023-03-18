@@ -12,10 +12,9 @@
 <p align="center">	
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=JavaScript&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> &nbsp
-
+<br/>
 
 <h3 align="center"><b>🌌 Statistics 🌌</b></h3></br>
-<div style="display: flex, height:180px">
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kimjunbo&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="SOKURI's github stats" />
-<img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjunbo&layout=compact&theme=gruvbox&hide_border=true" />
-</div>
+<p align="center">	
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kimjunbo&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true"/>
+<img align="center" style="height:180px; width:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjunbo&layout=compact&theme=gruvbox&hide_border=true" />
